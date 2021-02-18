@@ -1,0 +1,14 @@
+*.pyc
+*.mexa64
+*.o
+*.so
+*.swp
+*__pycache__*
+build
+.Rhistory
+dist
+docs/_build
+*.egg-info
+.coverage
+.idea
+wheelhouse
